@@ -122,4 +122,5 @@ class Solution {
     return minimumOneBitOperations(n ^ (x | x >> 1)) + 1 + x - 1;
   }
 }
-
+<br>
+add New questions
